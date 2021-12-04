@@ -1,0 +1,12 @@
+For the workshop we are using the Annaconda3 - Jupyter Notebook
+
+Operating System : Linux and Windows
+Platform : Anaconda3
+Language : Pyhton
+
+
+# How to Start the jupyter notebook in Ubuntu
+
+--> cd anaconda3/
+--> cd bin/
+--> jupyter notebook
