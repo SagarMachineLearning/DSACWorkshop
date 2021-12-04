@@ -1,0 +1,14 @@
+So if you dont want to install Anaconda3 and want to perform the data science project online then
+you can use the Google Colab where all the Machine Learning and Datascience libraries are available.
+
+Link : https://colab.research.google.com/?utm_source=scs-index
+
+--> How to connect to google drive in google Colab
+-->Python Code
+
+  import google.colab from drive
+  drive.mount('\content\drive')
+  
+ by using the code above you can connect to the google colab and import the dataset from the drive.
+ 
+ We will update this Note in Future for the further reference.
