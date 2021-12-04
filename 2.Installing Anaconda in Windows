@@ -1,0 +1,13 @@
+Step 1: Install Python : 
+
+
+Download Anaconda3 for Windows using the link : https://www.anaconda.com/products/individual#windows
+File Size : 515 Mb
+
+#Process of Installing :
+
+1. Double click the anaconda3 installer to launch.
+2. Click Next.
+3. Read the licensing terms and click “I Agree”.
+4. Select an install for “Just Me” unless you’re installing for all users (which requires Windows Administrator privileges) and click Next.
+5. Select a destination folder to install Anaconda and click the Next button. 
